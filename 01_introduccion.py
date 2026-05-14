@@ -15,4 +15,3 @@ nota = float(input("cual es tu nota : "))
 print("hola " , nombre , ",tu edad es: ", edad , ",y tu nota es: ", nota)
 
 print("--------------------------------")
-print('cambios')
