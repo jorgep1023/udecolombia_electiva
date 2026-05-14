@@ -4,7 +4,7 @@ print("Hola Mundo")
 
 #---------------------
 #Capturar texto desde teclado: función input
-nombre = input("cómo te llamas: ")
+nombre = input("Tu nombre: ")
 print("hola " + nombre)
 print("")
 
